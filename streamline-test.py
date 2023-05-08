@@ -1,5 +1,5 @@
 import streamlit as st
 
-st.header('wwlcome')
+st.header('welcome')
 
 
